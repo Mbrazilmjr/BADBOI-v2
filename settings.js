@@ -53,12 +53,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only or by Badboi hacker 😂😁😂',
+    prem: 'This feature can be used by premium user only or by Mjukuu hacker 😂😁😂',
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin or by Badboi hacker 😂😁😂',
-    owner: 'This feature can be used by owner only or by Badboi hacker 😂😁😂',
+    botAdmin: 'This feature can only be used when the bot is a group admin or by Mjukuu hacker 😂😁😂',
+    owner: 'This feature can be used by owner only or by Mjukuu hacker 😂😁😂',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats or by Badboi hacker 😂😁😂',
+    private: 'This feature is only for private chats or by Mjukuu hacker 😂😁😂',
     wait: 'In process... ',    
     error: 'Error!',
 }
